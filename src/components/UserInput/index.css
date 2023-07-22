@@ -1,0 +1,9 @@
+.userList-text {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 30px;
+  color: #0f172a;
+}
+.listEl {
+  list-style-type: none;
+}
